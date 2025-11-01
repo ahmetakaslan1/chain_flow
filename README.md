@@ -9,7 +9,7 @@
 **Track your daily goals and build unbreakable chains!**  
 **Günlük hedeflerini takip et ve kırılmaz zincirler oluştur!**
 
-[📥 Download APK](app-release.apk) • [🐛 Report Bug](../../issues) • [✨ Request Feature](../../issues)
+[📥 Download APK](https://github.com/ahmetakaslan1/chain_flow/raw/main/app-release.apk) • [🐛 Report Bug](../../issues) • [✨ Request Feature](../../issues)
 
 </div>
 
